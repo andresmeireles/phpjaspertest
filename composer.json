@@ -1,0 +1,23 @@
+{
+    "name": "andre/phpjasper",
+    "type": "project",
+    "require": {
+        "php": "^7.4",
+        "geekcom/phpjasper": "^3.3"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpJasperLearn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André Meireles",
+            "email": "andre2meireles@gmail.com"
+        }
+    ]
+}
